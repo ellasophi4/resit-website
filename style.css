@@ -20,3 +20,8 @@ h1 {
     text-align: center;
     font-size: xx-large;
 }
+
+ul {
+    list-style-type:none;
+    padding: 5px;
+}

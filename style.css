@@ -3,11 +3,20 @@ body{
 }
 
 header{
-    background-color: #F9C322;
+    background-color: #039DA3;
     padding: 10px 0px 10px 10px;
 }
 
 footer{
-    background-color: #039DA3;
+    background-color: #F9C322;
     padding: 10px 0px 10px 10px;
+}
+
+h2 {
+    font-family: "owners-xwide", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
 }

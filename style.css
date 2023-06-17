@@ -79,53 +79,64 @@ button:hover {
 }
 
 .flexgrow-container {
+    flex-direction: row;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .box1 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 1;
 }
 
 .box2 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 2;
 }
 
 .box3 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 3;
 }
 
 .box4 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 4;
 }
 
 .box5 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 5;
 }
 
 .box6 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 6;
 }
 
 .box7 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 7;
 }
 
 .box8 {
     background-color: #EFE5C2;
     height: 200px;
     flex: 1 1 auto;
+    order: 8;
 }

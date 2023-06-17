@@ -37,3 +37,10 @@ ul {
     justify-content: space-evenly;
 }
 
+.section-one {
+    background-color: #FC4300;
+    height:700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -44,3 +44,19 @@ ul {
     align-items: center;
     justify-content: center;
 }
+
+.section-two {
+    background-color: #F9C322;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-three {
+    background-color: #FF235C;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

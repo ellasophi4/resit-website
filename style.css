@@ -77,3 +77,55 @@ button:hover {
     0 17px 50px 0 rgba(0,0,0,0.19);
     background-color:#FF235C;
 }
+
+.flexgrow-container {
+    display: flex;
+}
+
+.box1 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box2 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box3 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box4 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box5 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box6 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box7 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}
+
+.box8 {
+    background-color: #EFE5C2;
+    height: 200px;
+    flex: 1 1 auto;
+}

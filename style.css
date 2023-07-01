@@ -11,7 +11,9 @@ footer{
     background-color: #039DA3;
     padding: 10px 0px 10px 10px;
     text-align: center;
-    /*add thinner version of header font*/
+    font-family: "owners-xwide", sans-serif;
+    font-weight: 500;
+    font-style: normal;
     font-size: x-small;
     color:black;
 }

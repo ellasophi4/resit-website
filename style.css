@@ -49,10 +49,11 @@ ul {
 
 .section-two {
     background-color: #F9C322;
-    height: 500px;
+    height: flex;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 40px;
 }
 
 .section-three {

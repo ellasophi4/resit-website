@@ -62,10 +62,9 @@ ul {
     padding: 40px;
 }
 
-@media (max-width: 800px) {
-    .section-two {
-        flex-direction: column;
-    }
+.responsive {
+    width:100%;
+    height: auto;
 }
 
 .section-three {

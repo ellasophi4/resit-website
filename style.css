@@ -27,6 +27,12 @@ h1 {
     font-size: xx-large;
 }
 
+h2 {
+   font-family: "owners-xwide", sans-serif; 
+   text-align: center;
+}
+
+
 ul {
     list-style-type:none;
     padding: 5px;
@@ -169,3 +175,6 @@ button:hover {
     }
 }
 
+pyo {
+    width: 50%;
+}

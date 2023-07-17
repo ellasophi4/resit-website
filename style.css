@@ -62,6 +62,12 @@ ul {
     padding: 40px;
 }
 
+@media (max-width: 800px) {
+    .section-two {
+        flex-direction: column;
+    }
+}
+
 .section-three {
     background-color: #FF235C;
     height: 500px;
@@ -175,6 +181,3 @@ button:hover {
     }
 }
 
-pyo {
-    width: 50%;
-}
